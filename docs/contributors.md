@@ -14,6 +14,14 @@
 | **Atmanand Gauns** | Modulation Scheme Development | BPSK Transceiver | Goa College of Engineering, Goa |
 | **Malyala Shiva Kumar** | YBS RAN Development | RAN Architecture, PHY/MAC Integration | KL University, Vijayawada, Andhra Pradesh |
 | **Nnmj Shivani** | 5GNR RAN Development| 5G NR RAN SDAP, PDCP, RLC, MAC, PHY Integration | Mahindra University, Hyderabad, Telangana |
+| **Manoranjan U** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Vaishnavi S** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Meganath Vishwa M** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Nithish Kumar M** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Kishore V** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Manoj Prasanna R** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Sudarshan V** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
+| **Shyamsundar S** | NGAP & NAS Protocol Development | 5G Core/RAN Signalling, NGAP and NAS Procedure Implementation | College of Engineering, Anna University, Chennai, Tamil Nadu |
 
 ---
 
